@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 03 15:41:12 CST 2020
+maven-archetype-webapp-simple-archetype-1.0.jar>=
+maven-archetype-webapp-simple-archetype-1.0.pom>=
